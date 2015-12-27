@@ -1,0 +1,107 @@
+{
+  "skills": [{
+    "name" : "Web Engineering",
+    "technology": "PHP, MEAN Stack",
+    "note": "Model-View-Controller,Single Page Application",
+    "tag": "web",
+    "summary" : "<p>I have been working in PHP for four years. I have developed some web applications in CodeIgniter FrameWork. Apart from PHP, I am also expert in Single Page Application developed in AngularJS, Node.js and Express Engine.</p>",
+    "description": "<p>Even this website is also developed with SPA technology. I have been working in PHP for four years. I have developed some web applications in CodeIgniter FrameWork. Apart from PHP, I am also expert in  Single Page Application developed in AngularJS, Node.js and Express Engine. I have experimented with a lots of application and for enterprise level work I choose CodeIgniter. On the other hand, Expree.js engine gives me extra confidence to build something cool and more stable in short period of time.</p>",
+    "projects": ["Hospital Appointment System", "Student Management System", "Payroll Management System", "Custom Made CMS"]
+  },{
+    "name" : "Application Development",
+    "technology": "Java",
+    "note": "Model-View-Controller",
+    "tag": "core",
+    "summary": "<p>Java is my favorite programming language. Its a beauty of web as well as desktop application development.</p>",
+    "description": "<p>Java is my favorite programming language. Its a beauty of web as well as desktop application development. I have developed some full-fledged application in Java. I mostly used MVC framework when developing in JavaFX. I have also used SQLITE database as backend for student information system, developed in Java Swing.</p>",
+    "projects" : ["Student Management System (MVC)" , "Calculator (MVC)", "LAN Chat Messenger " , "Text Editor" , "Port Scanner" , "Image Converter" , "Image Viewer"]
+  },{
+    "name" : "Embedded System",
+    "technology": "C Programming",
+    "note": "AtMega-16, 32 Micro-Controller",
+    "tag": "avr",
+    "summary": "<p>I am an electronic geek. I play with electrons. I have a good grasp over micro-controller based embedded system design.</p>",
+    "description": "<p>Embedded system is a low power device, designed to accomplish a single goal. Micro-Controller is a miniature computer that can be programmed to do amazing task.</p><p>I am an electronic geek. I play with electrons. I have a good grasp over micro-controller based embedded system design. I am trained under some of the best mechanical and electrical engineers of bangladesh.</p>",
+    "projects" : ["Obstacle avoiding vehicle","Water Pump Control","Room Temperature Controller","Keypad Matrix","Seven Segment Display Interfacing","Digital Thermometer", "UART/USART"]
+  },{
+    "name" : "Technical Skill",
+    "technology": "Environment, IDE",
+    "note": "Windows, Linux etc.",
+    "tag": "soft",
+    "summary": "<p>Integrated Development Environment: Eclipse, Netbeans, WebStorm, Dreamwaver, Bracket, Bluefish</p><p>Micro-controller: Atmel Studio, Proteus, AVR Burner</p>",
+    "description": "<p>Integrated Development Environment: Eclipse, Netbeans, WebStorm, Dreamwaver, Bracket, Bluefish</p><p>Simulation:  Atmel Studio, Proteus, AVR Burner</p><p>Installer Tool: Inno Setup, Launch4j</p><p>Database: RDBMS, NoSQL</p><p>Web: FTP Suport, Heroku, GitHub</p>",
+    "projects" : ["Windows Based Application", "Responsive Template"]
+  }],
+
+  "expertise" : [{
+    "subject" : "Micro-Controller",
+    "img" : "/images/expertise/atmel.png"
+  },{
+    "subject" : "C++",
+    "img" : "/images/expertise/c++.png"
+  },{
+    "subject" : "Java",
+    "img" : "/images/expertise/java.png"
+  },{
+    "subject" : "JavaFX",
+    "img" : "/images/expertise/javafx.png"
+  },{
+    "subject" : "AngularJS",
+    "img" : "/images/expertise/angularjs.png"
+  },{
+    "subject" : "Node.js",
+    "img" : "/images/expertise/nodejs.png"
+  },{
+    "subject" : "Express.js",
+    "img" : "/images/expertise/expressjs.png"
+  },{
+    "subject" : "MongoDB",
+    "img" : "/images/expertise/mongodb.png"
+  },{
+    "subject" : "JavaScript",
+    "img" : "/images/expertise/javascript.png"
+  },{
+    "subject" : "Ajax",
+    "img" : "/images/expertise/ajax.png"
+  },{
+    "subject" : "jQuery",
+    "img" : "/images/expertise/jquery.png"
+  },{
+    "subject" : "PHP",
+    "img" : "/images/expertise/php.png"
+  },{
+    "subject" : "MYSQL",
+    "img" : "/images/expertise/mysql.png"
+  },{
+    "subject" : "SQLITE",
+    "img" : "/images/expertise/sqlite.png"
+  },{
+    "subject" : "Responsive Design",
+    "img" : "/images/expertise/responsive.png"
+  },{
+    "subject" : "Bootstrap",
+    "img" : "/images/expertise/bootstrap.png"
+  }],
+
+  "certification" : [{
+    "subject" : "CodeIgniter Framework (BASIS)",
+    "img" : "/images/certification/basis.png",
+    "url" : "http://www.basis.org.bd"
+  },{
+    "subject" : "Micro-Controller (Pi Labs Bangladesh)",
+    "img" : "/images/certification/pilabs.png",
+    "url" : "http://www.pilabsbd.com/"
+  },{
+    "subject" : "News Presentation (jobsA1.com)",
+    "img" : "/images/certification/jobsa1.png",
+    "url" : "http://www.jobsa1.com"
+  }],
+
+
+  "contact" : {
+    "email": "E-mail: sadatrafsan@gmail.com",
+    "github": "<a href='http://www.github.com/sadatrafsan' target='_blank'>GitHub Repository</a>",
+    "linkedin":"<a href='http://bd.linkedin.com/in/sadatrafsan' target='_blank'>LinkedIn</a>",
+    "phone": "Phone: (+880) 1705571619"
+  }
+}

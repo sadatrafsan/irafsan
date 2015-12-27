@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="expertise col-md-12 text-center">
+        <div class="page-header">
+            <h1>My Expertise</h1>
+        </div>
+        <% expertise.forEach(function(item){ %>
+        <div class="col-xs-6 col-md-3">
+            <div class="thumbnail">
+                <img src="<%= item.img %>" alt="<%= item.subject %>">
+            </div>
+            <div class="caption">
+                <h4><%= item.subject %></h4>
+            </div>
+        </div>
+        <% }); %>
+    </div>
+</div>
